@@ -3,10 +3,10 @@
     <channel>
         <title>DockMaster</title>
         <item>
-            <title>1.0.56</title>
-            <pubDate>Thu, 13 May 2021 08:05:52 +0500</pubDate>
+            <title>1.0.57</title>
+            <pubDate>Fri, 14 May 2021 01:51:14 +0500</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aqtoor/app_update/raw/master/dockmaster/DockMaster.zip" sparkle:version="56" sparkle:shortVersionString="1.0.56" length="6118427" type="application/octet-stream" sparkle:edSignature="AX0iOuQkm1em0FynnhXpxlzRuS4jD2uVcFAsWcE3bP7unFM9yJkd00R3ujvjX/26dode48vtOJQcXMXQrFA8Ag=="/>
+            <enclosure url="https://update.dockmaster.world/DockMaster.zip" sparkle:version="57" sparkle:shortVersionString="1.0.57" length="6118387" type="application/octet-stream" sparkle:edSignature="4rebQzCC96sItu9VnKRAwMJ4+yrF3RaLM5w3sc/ScYUlOJesJLKw5A6np7jdcUzClkC7qXQaB2TaKLdkWQPyDQ=="/>
         </item>
     </channel>
 </rss>
