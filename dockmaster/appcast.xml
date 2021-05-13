@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DockMaster</title>
+        <item>
+            <title>1.0.56</title>
+            <pubDate>Thu, 13 May 2021 08:05:52 +0500</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aqtoor/app_update/raw/master/dockmaster/DockMaster.zip" sparkle:version="56" sparkle:shortVersionString="1.0.56" length="6118427" type="application/octet-stream" sparkle:edSignature="AX0iOuQkm1em0FynnhXpxlzRuS4jD2uVcFAsWcE3bP7unFM9yJkd00R3ujvjX/26dode48vtOJQcXMXQrFA8Ag=="/>
+        </item>
+    </channel>
+</rss>
